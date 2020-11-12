@@ -1,4 +1,4 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    open-pull-r
+    open-pull-req
