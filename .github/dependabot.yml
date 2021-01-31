@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "npm"
     open-pull-requests-limit: 0
     directory: "/"
-    rebase-st
+    rebase-strat
