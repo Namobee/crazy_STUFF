@@ -5,3 +5,4 @@ updates:
     directory: "/"
     rebase-strategy: "disabled"
     schedule:
+    
