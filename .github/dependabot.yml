@@ -4,4 +4,4 @@ updates:
     open-pull-requests-limit: 0
     directory: "/"
     rebase-strategy: "disabled"
-    schedule
+    schedule:
