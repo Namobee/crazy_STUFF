@@ -4,3 +4,5 @@ name: Pull Requests CI
 on: pull_request
 
 jobs:
+  install:
+    name: Install dependencies
