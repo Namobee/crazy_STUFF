@@ -20,3 +20,5 @@ jobs:
         id: yarn-cache
         with:
           path: |
+            node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
