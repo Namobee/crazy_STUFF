@@ -31,3 +31,5 @@ jobs:
 
   build:
     needs: install
+    name: Build
+    runs-on: ubuntu-latest
