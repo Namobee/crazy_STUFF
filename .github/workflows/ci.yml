@@ -27,3 +27,7 @@ jobs:
 
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
+        run: yarn install
+
+  build:
+    needs: install
