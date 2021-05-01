@@ -43,3 +43,8 @@ jobs:
           node-version: 14.17.4
 
       - uses: actions/cache@v2
+        with:
+          path: |
+            node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
