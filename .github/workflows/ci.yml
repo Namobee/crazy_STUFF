@@ -33,3 +33,8 @@ jobs:
     needs: install
     name: Build
     runs-on: ubuntu-latest
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
