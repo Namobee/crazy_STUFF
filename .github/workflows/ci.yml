@@ -54,3 +54,6 @@ jobs:
         run: yarn build
 
   lint:
+    needs: install
+    name: Lint
+    runs-on: ubuntu-latest
