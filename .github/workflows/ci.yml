@@ -51,3 +51,6 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Build package
+        run: yarn build
+
+  lint:
