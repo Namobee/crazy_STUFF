@@ -57,3 +57,7 @@ jobs:
     needs: install
     name: Lint
     runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
