@@ -78,3 +78,4 @@ jobs:
       - name: lint
         run: yarn lint
         env:
+          SKIP_PREFLIGHT_CHECK: true
