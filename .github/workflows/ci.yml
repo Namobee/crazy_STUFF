@@ -79,3 +79,7 @@ jobs:
         run: yarn lint
         env:
           SKIP_PREFLIGHT_CHECK: true
+
+  types:
+    needs: install
+    name: Type checking
