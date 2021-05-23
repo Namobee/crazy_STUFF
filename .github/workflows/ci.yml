@@ -83,3 +83,4 @@ jobs:
   types:
     needs: install
     name: Type checking
+    runs-on: ubuntu-latest
