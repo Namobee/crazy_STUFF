@@ -104,3 +104,5 @@ jobs:
 
       - name: tsc
         run: yarn type-check
+
+  test:
