@@ -109,3 +109,5 @@ jobs:
     needs: install
     name: Test
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
