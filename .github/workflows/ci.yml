@@ -111,3 +111,5 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
+      matrix:
+        jest-total-partitions: [4]
