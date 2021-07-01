@@ -133,3 +133,5 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Get number of CPU cores
+        id: cpu-cores
+        uses: SimenB/github-actions-cpu-cores@v1
