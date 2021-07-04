@@ -137,3 +137,4 @@ jobs:
         uses: SimenB/github-actions-cpu-cores@v1
 
       - name: test
+        run: yarn test:ci --max-workers ${{ steps.cpu-cores.outputs.count }}
