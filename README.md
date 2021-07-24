@@ -11,3 +11,4 @@
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - [Storybook](https://storybook.js.org/)
 - [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
