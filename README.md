@@ -15,3 +15,7 @@
 - [Husky](https://github.com/typicode/husky)
 
 ## Getting Started
+
+```
+npx degit https://github.com/oigabrielteodoro/vite-typescript-boilerplate project-name
+```
