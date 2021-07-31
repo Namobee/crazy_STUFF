@@ -19,3 +19,5 @@
 ```
 npx degit https://github.com/oigabrielteodoro/vite-typescript-boilerplate project-name
 ```
+
+### Install dependencies:
