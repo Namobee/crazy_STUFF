@@ -21,3 +21,9 @@ npx degit https://github.com/oigabrielteodoro/vite-typescript-boilerplate projec
 ```
 
 ### Install dependencies:
+
+```
+yarn
+```
+
+or
