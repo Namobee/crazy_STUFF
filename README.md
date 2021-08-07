@@ -27,3 +27,9 @@ yarn
 ```
 
 or
+
+```
+npm install
+```
+
+### Run development server
