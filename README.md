@@ -36,3 +36,6 @@ npm install
 
 ```
 yarn dev
+```
+
+or 
