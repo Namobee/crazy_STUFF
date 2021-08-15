@@ -47,3 +47,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Commands
+
+- `dev`: run development server
+- `build`: creates the production build version
+- `lint`: runs the linter in all components and pages
