@@ -8,3 +8,5 @@ module.exports = {
       '<rootDir>/__mocks__/fileMock.ts',
   },
   collectCoverageFrom: [
+    'src/**/*.ts(x)?',
+    '!src/App.tsx',
