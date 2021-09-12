@@ -12,3 +12,5 @@ module.exports = {
     '!src/App.tsx',
     '!src/main.tsx',
     '!src/routes.ts',
+  ],
+  maxWorkers: '50%',
