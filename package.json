@@ -6,3 +6,6 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview",
+    "lint": "eslint --max-warnings=0",
+    "lint:next": "next lint",
+    "test": "NODE_ENV=test && jest -i --silent",
