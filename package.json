@@ -2,3 +2,7 @@
 {
   "name": "vite-typescript-boilerplate",
   "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview",
