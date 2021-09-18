@@ -9,3 +9,6 @@
     "lint": "eslint --max-warnings=0",
     "lint:next": "next lint",
     "test": "NODE_ENV=test && jest -i --silent",
+    "test:ci": "jest --passWithNoTests --ci --watchAll=false",
+    "test:watch": "jest --maxWorkers=25% --watch",
+    "type-check": "tsc --project tsconfig.json --noEmit",
