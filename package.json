@@ -12,3 +12,5 @@
     "test:ci": "jest --passWithNoTests --ci --watchAll=false",
     "test:watch": "jest --maxWorkers=25% --watch",
     "type-check": "tsc --project tsconfig.json --noEmit",
+    "prettier:check": "prettier -c 'src/**/**.{ts,tsx,json}'",
+    "storybook": "start-storybook -p 6006",
