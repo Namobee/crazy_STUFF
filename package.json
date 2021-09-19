@@ -14,3 +14,4 @@
     "type-check": "tsc --project tsconfig.json --noEmit",
     "prettier:check": "prettier -c 'src/**/**.{ts,tsx,json}'",
     "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
