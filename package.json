@@ -21,3 +21,5 @@
   "lint-staged": {
     "src/**/*.{ts,tsx}": [
       "eslint",
+      "prettier --write"
+    ]
