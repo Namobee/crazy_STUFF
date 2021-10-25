@@ -55,3 +55,6 @@
     "babel": "6.23.0",
     "babel-loader": "^8.2.2",
     "babel-plugin-styled-components": "1.13.2",
+    "babel-plugin-transform-vite-meta-env": "1.0.3",
+    "babel-preset-react-app": "10.0.0",
+    "eslint": "7.32.0",
