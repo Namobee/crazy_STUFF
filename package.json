@@ -58,3 +58,6 @@
     "babel-plugin-transform-vite-meta-env": "1.0.3",
     "babel-preset-react-app": "10.0.0",
     "eslint": "7.32.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-config-standard": "16.0.3",
+    "eslint-plugin-import": "2.25.4",
