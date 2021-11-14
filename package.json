@@ -77,3 +77,5 @@
     "vite": "2.4.3",
     "vite-tsconfig-paths": "3.3.17"
   },
+  "babel": {
+    "env": {
