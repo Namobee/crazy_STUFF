@@ -80,3 +80,4 @@
   "babel": {
     "env": {
       "test": {
+        "presets": [
