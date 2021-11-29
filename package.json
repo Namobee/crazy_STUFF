@@ -81,3 +81,5 @@
     "env": {
       "test": {
         "presets": [
+          "react-app",
+          "@babel/preset-typescript"
