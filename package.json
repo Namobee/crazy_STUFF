@@ -83,3 +83,5 @@
         "presets": [
           "react-app",
           "@babel/preset-typescript"
+        ],
+        "plugins": [
