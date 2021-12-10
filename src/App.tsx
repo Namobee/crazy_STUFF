@@ -8,3 +8,5 @@ import { SignIn } from './pages'
 
 function App() {
   return (
+    <BrowserRouter>
+      <Routes>
