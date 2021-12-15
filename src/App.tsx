@@ -10,3 +10,4 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
+        <Route path={SIGNIN} element={<SignIn />} />
