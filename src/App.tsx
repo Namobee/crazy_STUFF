@@ -11,3 +11,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path={SIGNIN} element={<SignIn />} />
+      </Routes>
+      <GlobalStyle />
+    </BrowserRouter>
