@@ -7,3 +7,4 @@ export const theme = {
     },
     neutral: {
       100: '#FEFDFF',
+      200: '#F4F5FE',
