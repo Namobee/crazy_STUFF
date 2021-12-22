@@ -15,3 +15,5 @@ export const theme = {
     },
   },
   font: {
+    family: 'Dm Sans',
+    weigths: {
