@@ -17,3 +17,7 @@ export const theme = {
   font: {
     family: 'Dm Sans',
     weigths: {
+      regular: 400,
+      medium: 500,
+      bold: 700,
+    },
