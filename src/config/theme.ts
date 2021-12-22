@@ -21,3 +21,4 @@ export const theme = {
       medium: 500,
       bold: 700,
     },
+  },
