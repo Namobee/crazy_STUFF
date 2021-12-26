@@ -1,1 +1,1 @@
-import sty
+import styled
