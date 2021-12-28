@@ -1,1 +1,1 @@
-import styled
+import styled fr
