@@ -1,1 +1,1 @@
-import styled from 'styled-comp
+import styled from 'styled-compone
