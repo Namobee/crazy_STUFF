@@ -1,2 +1,2 @@
 import styled from 'styled-components/macro'
-import { theme } from 'conf
+import { theme } from 'config'
