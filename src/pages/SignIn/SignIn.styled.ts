@@ -1,4 +1,4 @@
 import styled from 'styled-components/macro'
 import { theme } from 'config'
 
-export const Test = sty
+export const Test = styl
