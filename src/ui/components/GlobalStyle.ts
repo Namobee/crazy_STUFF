@@ -1,1 +1,1 @@
-import { theme } fr
+import { theme } from
