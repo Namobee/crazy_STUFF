@@ -1,1 +1,1 @@
-import { theme } from 'config
+import { theme } from 'config'
