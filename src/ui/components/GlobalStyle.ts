@@ -1,2 +1,2 @@
 import { theme } from 'config'
-imp
+impo
