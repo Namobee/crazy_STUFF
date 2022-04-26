@@ -1,2 +1,2 @@
 import { theme } from 'config'
-import { createGlobal
+import { createGlobalSty
