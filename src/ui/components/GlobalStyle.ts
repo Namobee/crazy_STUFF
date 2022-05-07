@@ -1,2 +1,2 @@
 import { theme } from 'config'
-import { createGlobalStyle } from 'styled-compone
+import { createGlobalStyle } from 'styled-componen
