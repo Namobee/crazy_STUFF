@@ -1,4 +1,4 @@
 import { theme } from 'config'
 import { createGlobalStyle } from 'styled-components'
 
-export const GlobalStyle = createGlobalSt
+export const GlobalStyle = createGlobalSty
