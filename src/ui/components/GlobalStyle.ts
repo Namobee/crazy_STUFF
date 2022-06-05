@@ -3,4 +3,4 @@ import { createGlobalStyle } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
   * {
-    margi
+    margin: 0;
