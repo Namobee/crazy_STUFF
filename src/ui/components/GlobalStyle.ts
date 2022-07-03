@@ -8,3 +8,5 @@ export const GlobalStyle = createGlobalStyle`
     outline: 0;
     box-sizing: border-box;
   }
+
+  b
