@@ -10,4 +10,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    backgrou
+    background
