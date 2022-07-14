@@ -10,4 +10,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: ${theme.colors.n
+    background: ${theme.colors.neu
