@@ -11,4 +11,4 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     background: ${theme.colors.neutral[200]};
-    font-family: ${theme.font.f
+    font-family: ${theme.font.fa
