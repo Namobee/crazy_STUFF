@@ -14,3 +14,4 @@ export const GlobalStyle = createGlobalStyle`
     font-family: ${theme.font.family};
     overflow-x: hidden;
     color: ${theme.colors.neutral[900]};
+  }
