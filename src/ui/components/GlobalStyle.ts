@@ -15,3 +15,5 @@ export const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     color: ${theme.colors.neutral[900]};
   }
+
+ 
