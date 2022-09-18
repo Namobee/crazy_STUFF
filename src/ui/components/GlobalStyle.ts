@@ -17,3 +17,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   button {
+  
