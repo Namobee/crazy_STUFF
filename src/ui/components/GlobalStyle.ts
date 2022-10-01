@@ -17,4 +17,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   button {
-    cursor: poin
+    cursor: pointe
