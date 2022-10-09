@@ -21,3 +21,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   a {
+    t
