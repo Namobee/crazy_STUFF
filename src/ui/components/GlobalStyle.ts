@@ -21,4 +21,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   a {
-    text-decoration
+    text-decoration: none
