@@ -25,4 +25,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   ul {
-    list-style: n
+    list-style: none;
