@@ -29,4 +29,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   &::selection {
-    color: ${theme.colors.
+    color: ${theme.colors.n
