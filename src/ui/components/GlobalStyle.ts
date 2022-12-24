@@ -30,4 +30,4 @@ export const GlobalStyle = createGlobalStyle`
 
   &::selection {
     color: ${theme.colors.neutral[200]};
-    background: ${theme.colors.neutr
+    background: ${theme.colors.neutral
