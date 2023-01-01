@@ -33,4 +33,4 @@ export const GlobalStyle = createGlobalStyle`
     background: ${theme.colors.neutral[900]};
   }
 
-  htm
+  html 
