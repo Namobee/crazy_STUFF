@@ -34,4 +34,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    
+    fo
