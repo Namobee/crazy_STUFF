@@ -34,4 +34,4 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    font-size: 6
+    font-size: 62.5
