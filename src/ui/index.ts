@@ -1,1 +1,1 @@
-export * from './com
+export * from './compon
